@@ -61,10 +61,7 @@ Successfully registered for classes, but due to current location schedule confli
 
 **How do you know this interaction is typical?**
 
-https://nsucurrent.nova.edu/2016/10/25/fifteen-minutes-between-classes-isnt-enough/
-Aldana Foigel, a student at Nova Southeastern University, stated in the Student-run Newspaper that her college had a 15 minute gap between classes. She argued that it was not enough time because she would always have a tight schedule and her peers would almost always arrive to classes late.  
-https://www.redandblack.com/uganews/full-capacity-uga-students-have-trouble-with-buses-during-first-week-of-classes/article_e9a926ca-0d26-11ec-b26e-b3c044bf55a2.html
-UGA students have trouble with buses during the first week of school. Reported by Red & Black several students have problems navigating getting to class in the allotted time even with buses. Some have even reported walking to class is  preferred, since you are not always guaranteed a spot on the bus. 
+Aldana Foigel, a student at Nova Southeastern University, stated in the Student-run Newspaper that her college had a 15 minute gap between classes. She argued that it was not enough time because she would always have a tight schedule and her peers would almost always arrive to classes late. UGA students have trouble with buses during the first week of school. Reported by Red & Black several students have problems navigating getting to class in the allotted time even with buses. Some have even reported walking to class is  preferred, since you are not always guaranteed a spot on the bus. 
 
 **DROP/ADD
 
@@ -77,13 +74,12 @@ The user population that is affected by our problem would be students in college
 
 **What existing solutions, products, and services currently relate to your problem of study?**
 
-- UGA adjusted in between class times to 20 instead of 15 min for students. Yet after a certain time they have an exception where they only get 15 min between.   https://reg.uga.edu/general-information/daily-class-schedule/
+- UGA adjusted in between class times to 20 instead of 15 min for students. Yet after a certain time they have an exception where they only get 15 min between.
 - Hybrid classes available 
 - Oasis (UGA old system had warning if class was too far) 
  
  **Have others already attempted to solve your exact problem or something similar?** 
 
-https://dbknews.com/0999/12/31/arc-c4il5rkf2fdkbdm3anxvp3j4ju/
 While we have not found any other educational systems that attempt to solve this exact problem. We have seen that many students who are currently attending in-class instruction have tried to address the issue in their own way, by only selecting classes that have about 30 minutes in between class times. 
 
 **What are the pros and cons of each existing solution, product, or service?**
@@ -95,8 +91,7 @@ _UGA adjusting in between class times to 20 instead of 15 min for students:_
 
 _Hybrid Classes available:_
 - This allows students to opt for a flexible option depending on their schedule and the timing of the class they can decide if it’s more optimal to appear in person or online depending on the day.
-- https://files.eric.ed.gov/fulltext/EJ1069891.pdf
-- https://www.northeastern.edu/graduate/blog/5-reasons-hybrid-learning-might-be-right-for-you/
+
 
 _Oasis (Uga old system):_
 - Notified students letting them know if the class location was too far, and did not allow them to register for the class if it was. 
@@ -111,12 +106,10 @@ _Hybrid Classes:_
 - Face-to-face is less likely for students.
 - Hybrid option may not be available
 - Lack of personal connection between students and instructors
-- https://www.redandblack.com/uganews/hybrid-teaching-model-is-met-with-disapproval-as-spring-semester-approaches/article_6b650a52-2fa2-11eb-8b95-13747bfc0540.html
+
 
 _Oasis (UGA old system)_
 - OASIS requires students to visit several websites to access information, but ConnectUGA brings these services under one website.
-- https://www.redandblack.com/news/oasis-replaced-after-30-years-of-class-registration/article_d6c75fba-2d27-11e2-81f9-001a4bcf6878.html
-- https://connectuga.uga.edu/about/faq/
 
 **If a certain solution, product, or service is popular, then state that and justify why that’s the case – you might use published surveys or articles to help make your case.**
 
@@ -125,14 +118,13 @@ The change from 15 to 20 minute option was the most popular in the existing solu
 **What guidelines or principles do these solutions, products, and services conform to, either officially or unofficially, if any? What guidelines or principles appropriately serve your users?**
 
 Adjusting the time from 15 to 20 minutes would require updating agency policies because the class times for every class would have to change. Although this would change the times for every class, this solution still applies the principle of striving for consistency because each time is only added by 5 minutes and easy to adjust to. This change also helps keep users (students) in control of their schedules.  
-The hybrid class system usually requires students to download Zoom to participate in class remotely. This could be practicing universal design because Zoom for higher education is used by 96% of top US universities. (https://www.datalinknetworks.net/dln_blog/microsoft-teams-vs.-zoom-vs-google-meet-for-education). Zoom is also free which follows the accessible technology guideline. This solution could follow the principle of striving for consistency because the remote classes are structured in a way that is very similar to face to face learning. 
-Oasis would follow the guidelines of building awareness and support because the system would notify you if the commute from one class to another would be too long. It also follows the principle of offering informative feedback because users (students) will know if their schedule will be hard to maintain during the school year. 
+The hybrid class system usually requires students to download Zoom to participate in class remotely. This could be practicing universal design because Zoom for higher education is used by 96% of top US universities. Zoom is also free which follows the accessible technology guideline. This solution could follow the principle of striving for consistency because the remote classes are structured in a way that is very similar to face to face learning. Oasis would follow the guidelines of building awareness and support because the system would notify you if the commute from one class to another would be too long. It also follows the principle of offering informative feedback because users (students) will know if their schedule will be hard to maintain during the school year. 
 
 ###  C. Proposed Solution
 
 **Using points from (A) and (B), propose a design solution to your problem of study. Do not propose a solution that’s in search of a problem! At this stage, let the problem lead you to a solution. Try to describe your solution using terms like properties, affordances, and signifiers. How does your proposed solution compare to existing solutions?**
 
-We proposed having an option for the student to be able to view a map similar to Google maps that would provide the location of each class while also showcasing the day by day routing for each class depending on the day and times of the classes. This would give students a better idea of how their schedule may actually play out in real time. In terms of properties, this feature would be accessed via a tab similar to the schedule(button) and schedule details(button). We could have another tab that would have the text “Display Routing Map”. In the same gray front and formatting. It would afford displaying class location information, browsing a UGA architecture map, or the transportation/navigation map used on the UGA app for the bus routes. This feature would also afford opening as it would open up in a bigger box so that it can display the map for the student in a more ideal format. The tab button itself would be a signifier, the highlighting of the tab button in a blue tone would show the user that they have selected this feature. Different colored outlines that would signify the routing to each class from one another. There would also be certain properties that the map itself would provide which would be little icons representing buildings on the campus and a signifier would be the highlighting of the building that the class is being held in. https://www.architects.uga.edu/maps/pdf-maps
+We proposed having an option for the student to be able to view a map similar to Google maps that would provide the location of each class while also showcasing the day by day routing for each class depending on the day and times of the classes. This would give students a better idea of how their schedule may actually play out in real time. In terms of properties, this feature would be accessed via a tab similar to the schedule(button) and schedule details(button). We could have another tab that would have the text “Display Routing Map”. In the same gray front and formatting. It would afford displaying class location information, browsing a UGA architecture map, or the transportation/navigation map used on the UGA app for the bus routes. This feature would also afford opening as it would open up in a bigger box so that it can display the map for the student in a more ideal format. The tab button itself would be a signifier, the highlighting of the tab button in a blue tone would show the user that they have selected this feature. Different colored outlines that would signify the routing to each class from one another. There would also be certain properties that the map itself would provide which would be little icons representing buildings on the campus and a signifier would be the highlighting of the building that the class is being held in.
 
 ![image](https://user-images.githubusercontent.com/75345004/156477919-a7369b42-9336-4f87-9fda-cb839833627b.png)
 
@@ -143,4 +135,18 @@ You do not need to supply an evaluation for this milestone; however, you should 
 We would send out a survey to current UGA students and use their response as a way to determine success. This survey will have questions like, “Was the ‘Display Routing Map’ feature useful?” or “Were you able to locate the “Display Routing Map” feature?” Receiving feedback will be the most useful way to determine if the “Display Routing Map” feature had any impact on registration.  These are better than the current existing solutions because students are able to know if they can reach their classes within the time limit without relying on a hybrid option in one page. 
 
 ###  D. Summary Video
+
+### Citation
+
+1. https://nsucurrent.nova.edu/2016/10/25/fifteen-minutes-between-classes-isnt-enough/
+2. https://www.redandblack.com/uganews/full-capacity-uga-students-have-trouble-with-buses-during-first-week-of-classes/article_e9a926ca-0d26-11ec-b26e-b3c044bf55a2.html
+3. https://reg.uga.edu/general-information/daily-class-schedule/
+4. https://dbknews.com/0999/12/31/arc-c4il5rkf2fdkbdm3anxvp3j4ju/
+5. https://files.eric.ed.gov/fulltext/EJ1069891.pdf
+6. https://www.northeastern.edu/graduate/blog/5-reasons-hybrid-learning-might-be-right-for-you/
+7. https://www.redandblack.com/uganews/hybrid-teaching-model-is-met-with-disapproval-as-spring-semester-approaches/article_6b650a52-2fa2-11eb-8b95-13747bfc0540.html
+8. https://www.redandblack.com/news/oasis-replaced-after-30-years-of-class-registration/article_d6c75fba-2d27-11e2-81f9-001a4bcf6878.html
+9. https://connectuga.uga.edu/about/faq/
+10. https://www.datalinknetworks.net/dln_blog/microsoft-teams-vs.-zoom-vs-google-meet-for-education
+11. https://www.architects.uga.edu/maps/pdf-maps
 
