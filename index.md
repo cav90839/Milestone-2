@@ -99,8 +99,9 @@ _PROS:_
 -- Notified students letting them know if the class location was too far, and did not allow them to register for the class if it was. 
 
 _CONS:_
-- 20 to 15: 
--- Students may not be aware that a 20 minute break between classes reverts back to 15 minutes for classes beginning after 6 pm. 
+- 20 to 15:
+ 
+- Students may not be aware that a 20 minute break between classes reverts back to 15 minutes for classes beginning after 6 pm. 
 -- Longer schedules because of extended class time
 
 - Hybrid Classes:
