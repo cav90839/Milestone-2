@@ -131,6 +131,7 @@ We proposed having an option for the student to be able to view a map similar to
 ![image](https://user-images.githubusercontent.com/75345004/156478095-74b5dd29-5b9c-4fdb-8b82-05229101fc49.png)
 
 **How will you measure success?**
+
 You do not need to supply an evaluation for this milestone; however, you should discuss what criteria should be used to judge if your design is a success or not.
 We would send out a survey to current UGA students and use their response as a way to determine success. This survey will have questions like, “Was the ‘Display Routing Map’ feature useful?” or “Were you able to locate the “Display Routing Map” feature?” Receiving feedback will be the most useful way to determine if the “Display Routing Map” feature had any impact on registration.  These are better than the current existing solutions because students are able to know if they can reach their classes within the time limit without relying on a hybrid option in one page. 
 
