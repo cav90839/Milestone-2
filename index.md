@@ -88,31 +88,32 @@ While we have not found any other educational systems that attempt to solve this
 
 **What are the pros and cons of each existing solution, product, or service?**
 
-_PROS:_ 
-- UGA adjusting in between class times to 20 instead of 15 min for students:
--- Students have a bit more time to try and reach their designated classes.
-- Hybrid Classes available:
--- This allows students to opt for a flexible option depending on their schedule and the timing of the class they can decide if it’s more optimal to appear in person or online depending on the day.
--- https://files.eric.ed.gov/fulltext/EJ1069891.pdf
--- https://www.northeastern.edu/graduate/blog/5-reasons-hybrid-learning-might-be-right-for-you/
-- Oasis (Uga old system):
--- Notified students letting them know if the class location was too far, and did not allow them to register for the class if it was. 
+**_PROS:_**
+_UGA adjusting in between class times to 20 instead of 15 min for students:_
+- Students have a bit more time to try and reach their designated classes.
+_Hybrid Classes available:_
+- This allows students to opt for a flexible option depending on their schedule and the timing of the class they can decide if it’s more optimal to appear in person or online depending on the day.
+- https://files.eric.ed.gov/fulltext/EJ1069891.pdf
+- https://www.northeastern.edu/graduate/blog/5-reasons-hybrid-learning-might-be-right-for-you/
+_Oasis (Uga old system):_
+- Notified students letting them know if the class location was too far, and did not allow them to register for the class if it was. 
 
-_CONS:_
-- 20 to 15:
- 
+**_CONS:_**
+
+_20 to 15:_
 - Students may not be aware that a 20 minute break between classes reverts back to 15 minutes for classes beginning after 6 pm. 
--- Longer schedules because of extended class time
+- Longer schedules because of extended class time
 
-- Hybrid Classes:
--- Face-to-face is less likely for students.
--- Hybrid option may not be available
--- Lack of personal connection between students and instructors
--- https://www.redandblack.com/uganews/hybrid-teaching-model-is-met-with-disapproval-as-spring-semester-approaches/article_6b650a52-2fa2-11eb-8b95-13747bfc0540.html
-- Oasis (UGA old system)
--- OASIS requires students to visit several websites to access information, but ConnectUGA brings these services under one website.
--- https://www.redandblack.com/news/oasis-replaced-after-30-years-of-class-registration/article_d6c75fba-2d27-11e2-81f9-001a4bcf6878.html
--- https://connectuga.uga.edu/about/faq/
+_Hybrid Classes:_
+- Face-to-face is less likely for students.
+- Hybrid option may not be available
+- Lack of personal connection between students and instructors
+- https://www.redandblack.com/uganews/hybrid-teaching-model-is-met-with-disapproval-as-spring-semester-approaches/article_6b650a52-2fa2-11eb-8b95-13747bfc0540.html
+
+_Oasis (UGA old system)_
+- OASIS requires students to visit several websites to access information, but ConnectUGA brings these services under one website.
+- https://www.redandblack.com/news/oasis-replaced-after-30-years-of-class-registration/article_d6c75fba-2d27-11e2-81f9-001a4bcf6878.html
+- https://connectuga.uga.edu/about/faq/
 
 **If a certain solution, product, or service is popular, then state that and justify why that’s the case – you might use published surveys or articles to help make your case.**
 
