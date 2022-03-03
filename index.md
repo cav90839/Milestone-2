@@ -4,7 +4,7 @@
 
 **Examine and describe your problem of study. Try to describe your problem using terms like properties, affordances, and signifiers. Why is it a problem? How is it theme-relevant? Use the Seven Stages of Action to describe a typical interaction related to your problem. How do you know this interaction is typical?**
 
-PROBLEM:
+**PROBLEM:**
 The problem we will be focusing on is how even with the information we are able to receive from Athena many students still face many inconveniences with the location of classes upon the start of the semester. Despite being under the impression that students have successfully completed registration, some information in regards to class location is not even disclosed upfront often resulting in inflexible schedules and difficult commitments.
 
 **Property**: Banner (ATHENA)
@@ -89,12 +89,15 @@ While we have not found any other educational systems that attempt to solve this
 **What are the pros and cons of each existing solution, product, or service?**
 
 **_PROS:_**
+
 _UGA adjusting in between class times to 20 instead of 15 min for students:_
 - Students have a bit more time to try and reach their designated classes.
+
 _Hybrid Classes available:_
 - This allows students to opt for a flexible option depending on their schedule and the timing of the class they can decide if it’s more optimal to appear in person or online depending on the day.
 - https://files.eric.ed.gov/fulltext/EJ1069891.pdf
 - https://www.northeastern.edu/graduate/blog/5-reasons-hybrid-learning-might-be-right-for-you/
+
 _Oasis (Uga old system):_
 - Notified students letting them know if the class location was too far, and did not allow them to register for the class if it was. 
 
@@ -125,4 +128,17 @@ The change from 15 to 20 minute option was the most popular in the existing solu
 Adjusting the time from 15 to 20 minutes would require updating agency policies because the class times for every class would have to change. Although this would change the times for every class, this solution still applies the principle of striving for consistency because each time is only added by 5 minutes and easy to adjust to. This change also helps keep users (students) in control of their schedules.  
 The hybrid class system usually requires students to download Zoom to participate in class remotely. This could be practicing universal design because Zoom for higher education is used by 96% of top US universities. (https://www.datalinknetworks.net/dln_blog/microsoft-teams-vs.-zoom-vs-google-meet-for-education). Zoom is also free which follows the accessible technology guideline. This solution could follow the principle of striving for consistency because the remote classes are structured in a way that is very similar to face to face learning. 
 Oasis would follow the guidelines of building awareness and support because the system would notify you if the commute from one class to another would be too long. It also follows the principle of offering informative feedback because users (students) will know if their schedule will be hard to maintain during the school year. 
+
+###  C. Proposed Solution
+
+**Using points from (A) and (B), propose a design solution to your problem of study. Do not propose a solution that’s in search of a problem! At this stage, let the problem lead you to a solution. Try to describe your solution using terms like properties, affordances, and signifiers. How does your proposed solution compare to existing solutions?**
+
+We proposed having an option for the student to be able to view a map similar to Google maps that would provide the location of each class while also showcasing the day by day routing for each class depending on the day and times of the classes. This would give students a better idea of how their schedule may actually play out in real time. In terms of properties, this feature would be accessed via a tab similar to the schedule(button) and schedule details(button). We could have another tab that would have the text “Display Routing Map”. In the same gray front and formatting. It would afford displaying class location information, browsing a UGA architecture map, or the transportation/navigation map used on the UGA app for the bus routes. This feature would also afford opening as it would open up in a bigger box so that it can display the map for the student in a more ideal format. The tab button itself would be a signifier, the highlighting of the tab button in a blue tone would show the user that they have selected this feature. Different colored outlines that would signify the routing to each class from one another. There would also be certain properties that the map itself would provide which would be little icons representing buildings on the campus and a signifier would be the highlighting of the building that the class is being held in. https://www.architects.uga.edu/maps/pdf-maps
+
+
+**How will you measure success?**
+You do not need to supply an evaluation for this milestone; however, you should discuss what criteria should be used to judge if your design is a success or not.
+We would send out a survey to current UGA students and use their response as a way to determine success. This survey will have questions like, “Was the ‘Display Routing Map’ feature useful?” or “Were you able to locate the “Display Routing Map” feature?” Receiving feedback will be the most useful way to determine if the “Display Routing Map” feature had any impact on registration.  These are better than the current existing solutions because students are able to know if they can reach their classes within the time limit without relying on a hybrid option in one page. 
+
+###  D. Summary Video
 
