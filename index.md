@@ -121,7 +121,6 @@ _Oasis (UGA old system)_
 **If a certain solution, product, or service is popular, then state that and justify why that’s the case – you might use published surveys or articles to help make your case.**
 
 The change from 15 to 20 minute option was the most popular in the existing solutions. A lot of colleges used the approach of adding time in between classes as a solution.
- 
 
 **What guidelines or principles do these solutions, products, and services conform to, either officially or unofficially, if any? What guidelines or principles appropriately serve your users?**
 
@@ -135,6 +134,9 @@ Oasis would follow the guidelines of building awareness and support because the 
 
 We proposed having an option for the student to be able to view a map similar to Google maps that would provide the location of each class while also showcasing the day by day routing for each class depending on the day and times of the classes. This would give students a better idea of how their schedule may actually play out in real time. In terms of properties, this feature would be accessed via a tab similar to the schedule(button) and schedule details(button). We could have another tab that would have the text “Display Routing Map”. In the same gray front and formatting. It would afford displaying class location information, browsing a UGA architecture map, or the transportation/navigation map used on the UGA app for the bus routes. This feature would also afford opening as it would open up in a bigger box so that it can display the map for the student in a more ideal format. The tab button itself would be a signifier, the highlighting of the tab button in a blue tone would show the user that they have selected this feature. Different colored outlines that would signify the routing to each class from one another. There would also be certain properties that the map itself would provide which would be little icons representing buildings on the campus and a signifier would be the highlighting of the building that the class is being held in. https://www.architects.uga.edu/maps/pdf-maps
 
+![image](https://user-images.githubusercontent.com/75345004/156477919-a7369b42-9336-4f87-9fda-cb839833627b.png)
+
+![image](https://user-images.githubusercontent.com/75345004/156478095-74b5dd29-5b9c-4fdb-8b82-05229101fc49.png)
 
 **How will you measure success?**
 You do not need to supply an evaluation for this milestone; however, you should discuss what criteria should be used to judge if your design is a success or not.
