@@ -136,7 +136,7 @@ You do not need to supply an evaluation for this milestone; however, you should 
 We would send out a survey to current UGA students and use their response as a way to determine success. This survey will have questions like, “Was the ‘Display Routing Map’ feature useful?” or “Were you able to locate the “Display Routing Map” feature?” Receiving feedback will be the most useful way to determine if the “Display Routing Map” feature had any impact on registration.  These are better than the current existing solutions because students are able to know if they can reach their classes within the time limit without relying on a hybrid option in one page. 
 
 ###  D. Summary Video
-https://www.youtube.com/watch?v=2fIFfeqOHEI
+[![Summary Video](https://img.youtube.com/vi/2fIFfeqOHEI/0.jpg)](https://www.youtube.com/watch?v=2fIFfeqOHEI "Milestone 2: Team C.A.C video summary")
 
 ### Citation
 
