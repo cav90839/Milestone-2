@@ -136,6 +136,7 @@ You do not need to supply an evaluation for this milestone; however, you should 
 We would send out a survey to current UGA students and use their response as a way to determine success. This survey will have questions like, “Was the ‘Display Routing Map’ feature useful?” or “Were you able to locate the “Display Routing Map” feature?” Receiving feedback will be the most useful way to determine if the “Display Routing Map” feature had any impact on registration.  These are better than the current existing solutions because students are able to know if they can reach their classes within the time limit without relying on a hybrid option in one page. 
 
 ###  D. Summary Video
+https://www.youtube.com/watch?v=2fIFfeqOHEI
 
 ### Citation
 
@@ -150,4 +151,6 @@ We would send out a survey to current UGA students and use their response as a w
 9. https://connectuga.uga.edu/about/faq/
 10. https://www.datalinknetworks.net/dln_blog/microsoft-teams-vs.-zoom-vs-google-meet-for-education
 11. https://www.architects.uga.edu/maps/pdf-maps
+12. https://www.redandblack.com/news/oasis-replaced-after-30-years-of-class-registration/article_d6c75fba-2d27-11e2-81f9-001a4bcf6878.html
+13. http://www2.palomar.edu/pages/instruction/files/2015/05/Hybrid-Class-Guidelines1.pdf
 
