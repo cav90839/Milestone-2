@@ -169,7 +169,19 @@ You do not need to supply an evaluation for this milestone; however, you should 
 We would send out a survey to current UGA students and use their response as a way to determine success. This survey will have questions like, “Was the ‘Display Routing Map’ feature useful?” or “Were you able to locate the “Display Routing Map” feature?” Receiving feedback will be the most useful way to determine if the “Display Routing Map” feature had any impact on registration.  These are better than the current existing solutions because students are able to know if they can reach their classes within the time limit without relying on a hybrid option in one page. 
 
 **Correction:**
+The survey will be on a 1-5 scale:
 
+1- not very good
+
+2- not good, but better
+
+3- neutral
+
+4- okay, but could be better
+
+5- this is the greatest thing to ever be created!!
+
+Students will answer questions about our solution and submit answers based on this scale.  If we find that answers to 'Was the Routing Map Useful' are mostly on 5's, we will deem that our solution was successful and vice-versa. If the question "Were you able to locate the "display Routing Map" feature was mostly 1, we would find a solution to make the accessibility of the feature more prominent. 
 
 
 ###  D. Summary Video
