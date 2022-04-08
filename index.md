@@ -113,12 +113,44 @@ _Oasis (UGA old system)_
 
 **If a certain solution, product, or service is popular, then state that and justify why that’s the case – you might use published surveys or articles to help make your case.**
 
-The change from 15 to 20 minute option was the most popular in the existing solutions. A lot of colleges used the approach of adding time in between classes as a solution.
+**Correction:**
+
+(after more research for justification, we found that hybrid classes were actually a more popular option because of flexibility)
+
+We believe that hybird classes would be the most popular solution. While hybird classes were implemented as a response to Covid-19, universities found other benefits in offering a hybrid option to students. Students who need extra time for assignments due to learning differences could access what they needed on their own time. Hybrid classes allow students to be more flexible because it allows them to work online at their own pace. 
+
+https://thebestschools.org/magazine/hybrid-classes-pros-cons/
+
+https://resources.owllabs.com/blog/hybrid-learning-benefits#:~:text=Hybrid%20learning%20also%20incorporates%20these,impact%20on%20students'%20communication%20skills.
+
+https://blog.extensionengine.com/why-universities-should-maintain-hybrid-courses-and-create-more
 
 **What guidelines or principles do these solutions, products, and services conform to, either officially or unofficially, if any? What guidelines or principles appropriately serve your users?**
 
 Adjusting the time from 15 to 20 minutes would require updating agency policies because the class times for every class would have to change. Although this would change the times for every class, this solution still applies the principle of striving for consistency because each time is only added by 5 minutes and easy to adjust to. This change also helps keep users (students) in control of their schedules.  
-The hybrid class system usually requires students to download Zoom to participate in class remotely. This could be practicing universal design because Zoom for higher education is used by 96% of top US universities. Zoom is also free which follows the accessible technology guideline. This solution could follow the principle of striving for consistency because the remote classes are structured in a way that is very similar to face to face learning. Oasis would follow the guidelines of building awareness and support because the system would notify you if the commute from one class to another would be too long. It also follows the principle of offering informative feedback because users (students) will know if their schedule will be hard to maintain during the school year. 
+
+**Corrected:**
+
+Guidelines for changing times in a schedule would be that all time changes must be requested prior to the opening of registration and time changes cannot be made once the term begins. This seems to be implemented to keep student schedules on a consistent schedule. Changing the times of each transition period will make days longer, which can hinder a students overall schedule if changed in the middle of a semester. Moreover, students must have access to planning tools and/or academic advisors to help them regularly update/maintain academic plans. We believe that keeping a consistent schedule and not being able to change times would appropriately serve our potential users. Changing the class times in the middle of a semester can become inconvenient to students who work part time jobs or commute to college. 
+
+https://registrar.uoregon.edu/faculty-staff/academic-scheduling/class-time-change
+
+The hybrid class system usually requires students to download Zoom to participate in class remotely. This could be practicing universal design because Zoom for higher education is used by 96% of top US universities. Zoom is also free which follows the accessible technology guideline. This solution could follow the principle of striving for consistency because the remote classes are structured in a way that is very similar to face to face learning. 
+
+**Corrected:**
+Guidelines for hybrid classes are that classroom attendance must be 50% or more of the course required hours. Classroom meetins must also be regularly scheduled on a daily or weekly basis for the duration of the class. Offering a hybrid class should have no affect on the Method of Instruction placed on a class. We believe that the guideline of having no affect on the Method of Instruction is very important. It would not be fair to students who choose to attend class in person if a hybrid class hinders the learning experience. We also believe that students should have a regular meeting scheduled for their hybrid classes. An inconsistent schedule could become a hinderance to a student because they would have to pay extra attention to when they would have classes.
+
+http://www2.palomar.edu/pages/instruction/files/2015/05/Hybrid-Class-Guidelines1.pdf
+
+Oasis would follow the guidelines of building awareness and support because the system would notify you if the commute from one class to another would be too long. It also follows the principle of offering informative feedback because users (students) will know if their schedule will be hard to maintain during the school year. 
+
+**Corrected:**
+
+In the Red and Black article, students have stated that Oasis was "outdated" and inefficient. Guidelines for web applications are the they must be easy and intuitive to use for students, they must function in a logical manner for the target audience, and they must use styles that are consistent throughout the appliation and within the associated website. Oasis would not follow this because students would have to open multiple websites to access information, while ConnectUGA would bring all the services in one website. Students also stated that Oasis felt "clunky and annoying" to use. We believe that making the web appliation easy and intuitive to use will be helpful for potential users. Many students in the Red and Black article stated that Oasis was outdated and were excited for ConnectUGA. Implementing a program like Oasis would need to follow those guidelines because even if it is helpful, if the service is not easy to use, many students may not want to use it. 
+
+https://www.cde.ca.gov/re/di/ws/appdevstandards.asp
+
+https://www.redandblack.com/news/oasis-replaced-after-30-years-of-class-registration/article_d6c75fba-2d27-11e2-81f9-001a4bcf6878.html
 
 ###  C. Proposed Solution
 
@@ -133,7 +165,12 @@ We proposed having an option for the student to be able to view a map similar to
 **How will you measure success?**
 
 You do not need to supply an evaluation for this milestone; however, you should discuss what criteria should be used to judge if your design is a success or not.
+
 We would send out a survey to current UGA students and use their response as a way to determine success. This survey will have questions like, “Was the ‘Display Routing Map’ feature useful?” or “Were you able to locate the “Display Routing Map” feature?” Receiving feedback will be the most useful way to determine if the “Display Routing Map” feature had any impact on registration.  These are better than the current existing solutions because students are able to know if they can reach their classes within the time limit without relying on a hybrid option in one page. 
+
+**Correction:**
+
+
 
 ###  D. Summary Video
 [![Summary Video](https://img.youtube.com/vi/2fIFfeqOHEI/0.jpg)](https://www.youtube.com/watch?v=2fIFfeqOHEI "Milestone 2: Team C.A.C video summary")
@@ -153,4 +190,9 @@ We would send out a survey to current UGA students and use their response as a w
 11. https://www.architects.uga.edu/maps/pdf-maps
 12. https://www.redandblack.com/news/oasis-replaced-after-30-years-of-class-registration/article_d6c75fba-2d27-11e2-81f9-001a4bcf6878.html
 13. http://www2.palomar.edu/pages/instruction/files/2015/05/Hybrid-Class-Guidelines1.pdf
+14. https://www.cde.ca.gov/re/di/ws/appdevstandards.asp
+https://thebestschools.org/magazine/hybrid-classes-pros-cons/
 
+https://resources.owllabs.com/blog/hybrid-learning-benefits#:~:text=Hybrid%20learning%20also%20incorporates%20these,impact%20on%20students'%20communication%20skills.
+
+https://blog.extensionengine.com/why-universities-should-maintain-hybrid-courses-and-create-more
